@@ -1,0 +1,21 @@
+.card {
+  display: inline-block;
+  width: 100px;
+  height: 60px;
+  font-size: 1.2em;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  text-align: center;
+  margin: 10px;
+  overflow: hidden;
+}
+p {
+  text-align: center;
+  position: relative;
+  padding: 15px;
+}
+
+.icon {
+  margin: 0;
+  position: relative;
+  top: 30%;
+}
